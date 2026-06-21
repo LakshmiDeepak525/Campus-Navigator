@@ -64,7 +64,7 @@ POST /api/algo/mst        — Run Kruskal + Prim { graph, start }
 GET  /api/campus/osm      — Import from OpenStreetMap ?bbox=s,w,n,e
 ```
 
-## 🏗 Architecture
+## 🏗 Architecture.
 
 ```
 campus-nav/
