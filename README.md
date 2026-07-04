@@ -5,7 +5,7 @@ A full-stack web application that models a university campus as a weighted graph
 ## 🚀 Quick Start
 
 **Terminal 1 — Backend:**
-```bash.
+```bash
 cd server
 npm start
 ```
