@@ -23,7 +23,7 @@ App runs on "http://localhost:5173"
 ## ✨ Features
 
 | Algorithm | Route | Accent |
-|-----------|-------|--------|
+|-----------|-------|--------| 
 | Dijkstra's Shortest Path | `/dijkstra` | 🔴 Red |
 | Bellman-Ford | `/bellman` | 🟢 Neon Green |
 | Floyd-Warshall | `/floyd` | 🔵 Electric Blue |
