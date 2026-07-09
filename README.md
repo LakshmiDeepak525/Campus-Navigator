@@ -79,3 +79,4 @@ All algorithm state is computed server-side and returned as `steps[]` arrays. Th
 Pre-loaded 8-node campus: Main Gate → Library → Cafeteria → Lab Block A → Lab Block B → Hostel → Sports Ground → Admin Block
 
 Graph persists in `localStorage` across page refreshes.
+ 
