@@ -68,7 +68,7 @@ GET  /api/campus/osm      — Import from OpenStreetMap ?bbox=s,w,n,e
 
 ```
 campus-nav/
-├── client/   React 18 + Vite + Framer Motion + Zustand
+├── client/   React 18 + Vite + Framer Motion + Zustand 
 └── server/   Node.js + Express + TypeScript
 ```
 
