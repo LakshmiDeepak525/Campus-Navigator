@@ -32,7 +32,7 @@ App runs on "http://localhost:5173"
 | Graph Builder | `/builder` | 🟡 Yellow |
 
 ## 🎨 Design
-
+ 
 **Neobrutalism** — raw, bold, high-contrast:
 - Hard shadows (`4px 4px 0 #000`), no blur, no gradients
 - Thick 3px black borders on all elements  
