@@ -13,7 +13,7 @@ Server runs on "http://localhost:3001"
 
 **Terminal 2 — Frontend:**
 ```bash
-cd client
+cd client 
 npm run dev
 ```
 App runs on "http://localhost:5173"  
