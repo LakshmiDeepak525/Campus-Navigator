@@ -6,7 +6,7 @@ A full-stack web application that models a university campus as a weighted graph
 
 **Terminal 1 — Backend:** 
 ```bash
-cd server
+cd server 
 npm start 
 ```
 Server runs on "http://localhost:3001"
