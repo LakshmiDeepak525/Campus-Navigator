@@ -3,7 +3,7 @@
 A full-stack web application that models a university campus as a weighted graph and provides step-by-step visualization of 6 algorithm families.
 
 ## 🚀 Quick Start 
-
+ 
 **Terminal 1 — Backend:** 
 ```bash 
 cd server 
